@@ -15,3 +15,6 @@ Book Tickets To Events/Shows With Chatbots.
 Use Chatbots To Find Products, Check Inventory and Recommend Items. 
 Chatbots To Build Remarkable Customer Experience. 
 Chatbots Can Process Return and Exchange Requests.
+
+Technology Used are :
+Azure Bot Service, Azure Machine Learning, Mobile Apps
